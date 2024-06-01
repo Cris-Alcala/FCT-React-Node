@@ -1,0 +1,1012 @@
+{
+  "foodServices": [
+    {
+      "id": "2",
+      "name": "Classic chicken",
+      "ingredients": [
+        "pan de hamburguesa",
+        "pechuga de pollo",
+        "queso cheddar",
+        "lechuga",
+        "tomate",
+        "cebolla",
+        "mayonesa"
+      ],
+      "price": 5.9,
+      "image": "chickenburguer.jpg",
+      "description": "Hamburguesa de pollo con queso cheddar, lechuga, tomate, cebolla y mayonesa.",
+      "section": "1",
+      "available": true,
+      "updated_at": "05/25/2024, 06:48:43 PM"
+    },
+    {
+      "id": "3",
+      "name": "Zpecial classic",
+      "ingredients": [
+        "pan de hamburguesa",
+        "carne de ternera",
+        "queso cheddar",
+        "lechuga",
+        "tomate",
+        "cebolla",
+        "mostaza"
+      ],
+      "price": 6.9,
+      "image": "beefburguer.webp",
+      "description": "Hamburguesa de ternera con queso cheddar, lechuga, tomate, cebolla y mostaza.",
+      "section": "1",
+      "available": true,
+      "updated_at": "05/25/2024, 06:49:31 PM"
+    },
+    {
+      "id": "6",
+      "name": "Combinado Lomo",
+      "ingredients": [
+        "huevo",
+        "pimiento",
+        "patatas",
+        "lomo de cerdo",
+        "mayonesa"
+      ],
+      "price": 9.9,
+      "image": "combinadolomo.webp",
+      "description": "Combinado de lomo de cerdo con huevo, pimiento, patatas y mayonesa.",
+      "section": "3",
+      "available": true,
+      "updated_at": "05/05/2024, 09:40:35 PM"
+    },
+    {
+      "id": "7",
+      "name": "Combinado Pollo",
+      "ingredients": [
+        "huevo",
+        "pimiento",
+        "patatas",
+        "pechuga de pollo",
+        "mayonesa"
+      ],
+      "price": 10.9,
+      "image": "combinadopollo.jpg",
+      "description": "Combinado de pechuga de pollo con huevo, pimiento, patatas y mayonesa.",
+      "section": "3",
+      "available": true,
+      "updated_at": "05/05/2024, 07:33:08 PM"
+    },
+    {
+      "id": "8",
+      "name": "Bocadillo de Lomo",
+      "ingredients": [
+        "baguette",
+        "lomo de cerdo",
+        "pimiento",
+        "mayonesa"
+      ],
+      "price": 5,
+      "image": "bocadillolomo.jpg",
+      "description": "Bocadillo de lomo de cerdo con pimiento y mayonesa.",
+      "section": "4",
+      "available": true,
+      "updated_at": "05/19/2024, 09:31:23 PM"
+    },
+    {
+      "id": "9",
+      "name": "Serranito",
+      "ingredients": [
+        "baguette",
+        "lomo de cerdo",
+        "jamón serrano",
+        "pimiento",
+        "tomate",
+        "mayonesa"
+      ],
+      "price": 5.9,
+      "image": "serranito.jpg",
+      "description": "Bocadillo de lomo de cerdo con jamón serrano, pimiento, tomate y mayonesa.",
+      "section": "4",
+      "available": true,
+      "updated_at": "2021-06-01T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Diabla",
+      "ingredients": [
+        "Masa fina",
+        " Salsa de tomate",
+        " Mozzarella",
+        " Chorizo picante"
+      ],
+      "price": 7.9,
+      "image": "pizzadiabla.jpg",
+      "description": "Para los más diabólicos, disfruta de esta clásica pizza para los más atrevidos.",
+      "section": "2",
+      "available": true,
+      "updated_at": "05/25/2024, 07:44:19 PM"
+    },
+    {
+      "id": "11",
+      "name": "Texana",
+      "ingredients": [
+        "Masa de pizza",
+        " Salsa de tomate",
+        " Mozzarella",
+        " Carne de ternera especiada",
+        " Bacon",
+        " Cebolla",
+        " Salsa barbacoa"
+      ],
+      "price": 8.9,
+      "image": "pizzabarbacoa.webp",
+      "description": "Viaja a Texas solo con probar esta pizza, se aseguramos que repetirás.",
+      "section": "2",
+      "available": true,
+      "updated_at": "05/25/2024, 07:43:14 PM"
+    },
+    {
+      "id": "12",
+      "name": "Patata asada completa",
+      "ingredients": [
+        "patata",
+        "surimi",
+        "atún",
+        "maíz",
+        "mayonesa",
+        "tomate",
+        "queso",
+        "aceitunas",
+        "jamón cocido",
+        "atún",
+        "remolacha",
+        "zanahoria",
+        "carne de kebab"
+      ],
+      "price": 6.9,
+      "image": "patataasada.jpg",
+      "description": "Patata asada rellena de surimi, atún, maíz, mayonesa, tomate, queso, aceitunas, jamón cocido, atún, remolacha, zanahoria y kebab.",
+      "section": "8",
+      "available": true,
+      "updated_at": "2021-06-01T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "name": "Patata asada con jamón y queso",
+      "ingredients": [
+        "patata",
+        "jamón cocido",
+        "queso",
+        "mayonesa"
+      ],
+      "price": 5.9,
+      "image": "patataasada2.jpg",
+      "description": "Patata asada rellena de jamón cocido, queso y mayonesa.",
+      "section": "8",
+      "available": true,
+      "updated_at": "2021-06-01T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "name": "Ensalada de cangrejo",
+      "ingredients": [
+        "lechuga",
+        "surimi",
+        "piña",
+        "mayonesa",
+        "tomate"
+      ],
+      "price": 6.9,
+      "image": "ensaladacangrejo.webp",
+      "description": "Ensalada de lechuga con surimi, piña, mayonesa y tomate.",
+      "section": "5",
+      "available": true,
+      "updated_at": "2021-06-01T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "name": "Ensalada de pollo",
+      "ingredients": [
+        "lechuga",
+        "pechuga de pollo",
+        "mayonesa",
+        "tomate"
+      ],
+      "price": 7.9,
+      "image": "ensaladapollo.jpg",
+      "description": "Ensalada de lechuga con pechuga de pollo, mayonesa y tomate.",
+      "section": "5",
+      "available": true,
+      "updated_at": "2021-06-01T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "name": "Tarta de queso",
+      "ingredients": [
+        "queso",
+        "nata",
+        "galleta",
+        "mantequilla"
+      ],
+      "price": 3.9,
+      "image": "tartadequeso.jpg",
+      "description": "Tarta de queso con base de galleta y mantequilla.",
+      "section": "6",
+      "available": true,
+      "updated_at": "2021-06-01T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "name": "Tarta de chocolate",
+      "ingredients": [
+        "chocolate",
+        "nata",
+        "galleta",
+        "mantequilla"
+      ],
+      "price": 4.9,
+      "image": "tartadechocolate.jpg",
+      "description": "Tarta de chocolate con base de galleta y mantequilla.",
+      "section": "6",
+      "available": true,
+      "updated_at": "2021-06-01T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "name": "Cocacola",
+      "size": "33cl",
+      "price": 1.5,
+      "image": "cocacolaLata.jpg",
+      "section": "7",
+      "available": true,
+      "updated_at": "05/05/2024, 04:13:39 PM"
+    },
+    {
+      "name": "Cabrita",
+      "ingredients": [
+        "Pan brioche",
+        "       Carne de ternera",
+        "       Cebolla caramelizada",
+        "       Queso de cabra",
+        "       Salsa de miel y mostaza"
+      ],
+      "price": 6.9,
+      "image": "cabrita.jpg",
+      "description": "Deliciosa hamburguesa que volverá loco a tu paladar con ese sabor tan intenso como dulce de la mezcla de queso de cabra junto a nuestra cebolla caramelizada de la casa.",
+      "section": "1",
+      "available": true,
+      "size": "",
+      "id": "47509f77-5c8b-4362-8c29-b1d35b2e2276",
+      "created_at": "05/25/2024, 05:33:39 PM",
+      "updated_at": "05/26/2024, 03:27:04 PM"
+    },
+    {
+      "name": "The ring",
+      "ingredients": [
+        "Pan de sésamo",
+        "Bacon",
+        "Carne de ternera",
+        "Salsa mardi grass",
+        "Aritos de cebolla",
+        "Queso cheddar"
+      ],
+      "price": 7,
+      "image": "thering.jpg",
+      "description": "Deliciosa hamburguesa que mezcla el sabor dulce y picante de nuestra salsa barbacoa con el crujiente de aritos de cebolla que hará estallar un intenso sabor en tu boca.",
+      "section": "1",
+      "available": true,
+      "size": "",
+      "id": "134feb21-210f-4afe-bfbc-abc4631952c6",
+      "created_at": "05/25/2024, 05:42:29 PM",
+      "updated_at": "05/25/2024, 06:49:11 PM"
+    },
+    {
+      "name": "Pollito",
+      "ingredients": [
+        "Pan brioche con semillas de amapola",
+        "Pechuga de pollo crujiente",
+        "Lechuga",
+        "Cebolla caramelizada",
+        "Salsa Zpecial"
+      ],
+      "price": 5.8,
+      "image": "pollito.webp",
+      "description": "Deliciosa hamburguesa crunchy con pechuga de pollo con nuestro rebozado casero y nuestra salsa especial que hará que te vuelva loco solo al probarla.",
+      "section": "1",
+      "available": true,
+      "size": "",
+      "id": "14e0f55d-4119-470d-85ce-8f3590e1229f",
+      "created_at": "05/25/2024, 05:49:56 PM",
+      "updated_at": "05/25/2024, 06:48:55 PM"
+    },
+    {
+      "name": "Zpecial smash",
+      "ingredients": [
+        "Pan brioche",
+        "Pepinillos",
+        "Carne de ternera",
+        "Queso gouda",
+        "Salsa argentina"
+      ],
+      "price": 10,
+      "image": "zpecialsmash.jpg",
+      "description": "Enamórate de esta hamburguesa doble de ternera envuelta en un delicioso pan brioche con un toque de nuestra salsa argentina casera y la cremosidad de doble queso.",
+      "section": "1",
+      "available": true,
+      "size": "",
+      "id": "40e96fa0-e122-49b3-8fd0-d70b6d9dca8f",
+      "created_at": "05/25/2024, 05:54:41 PM",
+      "updated_at": "05/25/2024, 05:54:41 PM"
+    },
+    {
+      "name": "La cesariana",
+      "ingredients": [
+        "Pan de hamburguesa",
+        "Pollo a la plancha",
+        "Cebolla a la plancha",
+        "Lechuga",
+        "Salsa césar",
+        "Parmesano reggiano"
+      ],
+      "price": 9,
+      "image": "cesariana.webp",
+      "description": "Hamburguesa para los amantes de la salsa césar, déjate llevar por esta maravillosa combinación de sabores.",
+      "section": "1",
+      "available": true,
+      "size": "",
+      "id": "abf90860-abf6-430e-bd9a-ff3f5c162111",
+      "created_at": "05/25/2024, 06:44:33 PM",
+      "updated_at": "05/25/2024, 06:44:33 PM"
+    },
+    {
+      "name": "La dulzona",
+      "ingredients": [
+        "Pan brioche",
+        "Bacon crispy",
+        "Queso cheddar",
+        "Cebolla caramelizada",
+        "Carne de ternera",
+        "Salsa lotus"
+      ],
+      "price": 10,
+      "image": "dulzona.jpg",
+      "description": "Para los amantes del dulce aquí tenemos un verdadero reto, ¿Quién se atreverá a comérsela sin chuparse los dedos?",
+      "section": "1",
+      "available": true,
+      "size": "",
+      "id": "ca838b11-8473-4162-ac07-8f30a7ef4416",
+      "created_at": "05/25/2024, 06:47:14 PM",
+      "updated_at": "05/25/2024, 06:47:14 PM"
+    },
+    {
+      "name": "Balsámica",
+      "ingredients": [
+        "Masa fina",
+        "    Cebolla morada",
+        "    Pimiento rojo",
+        "    Alcachofas",
+        "    Piñones",
+        "    Salsa balsámica",
+        "    tomate",
+        "    Queso"
+      ],
+      "price": 9,
+      "image": "balsamica.jpg",
+      "description": "Pizza con una deliciosa salsa balsámica y acompañada de jugosa salsa de tomate y queso fundido, combinación de sabores mediterráneos que deleitará tu paladar.",
+      "section": "2",
+      "available": true,
+      "size": "",
+      "id": "200fc41e-e103-45ac-9b36-ac26358a2c0c",
+      "created_at": "05/25/2024, 07:15:30 PM",
+      "updated_at": "05/25/2024, 07:20:09 PM"
+    },
+    {
+      "name": "New Yorkiana",
+      "ingredients": [
+        "Masa fina",
+        "Salsa de tomate",
+        "Pepinillos",
+        "Champiñones",
+        "Cebolla morada",
+        "Jamón cocido",
+        "Rúcula",
+        "Queso"
+      ],
+      "price": 8.5,
+      "image": "newyorkiana.jpg",
+      "description": "Viaja hasta nueva york con esta deliciosa y apetitosa pizza que te dejará con ganas de más.",
+      "section": "2",
+      "available": true,
+      "size": "",
+      "id": "28f9ebff-6c09-4719-86c8-eda883920bc0",
+      "created_at": "05/25/2024, 07:23:13 PM",
+      "updated_at": "05/25/2024, 07:23:13 PM"
+    },
+    {
+      "name": "La mia margaritta",
+      "ingredients": [
+        "Masa gruesa",
+        "Salsa de tomate",
+        "Queso mozzarella",
+        "Albahaca"
+      ],
+      "price": 7,
+      "image": "miamargaritta.jpg",
+      "description": "Nada que perder con esta opción clásica de siempre.",
+      "section": "2",
+      "available": true,
+      "size": "",
+      "id": "52f328db-208b-4f70-80e3-c973b69404fd",
+      "created_at": "05/25/2024, 07:27:44 PM",
+      "updated_at": "05/25/2024, 07:27:44 PM"
+    },
+    {
+      "name": "Prosciutto",
+      "ingredients": [
+        "Masa fina",
+        "Salsa de tomate",
+        "Tomates Cherry",
+        "Rúcula",
+        "Jamón ibérico",
+        "Mozzarella",
+        "Aceite de oliva"
+      ],
+      "price": 12,
+      "image": "prosciutto.jpg",
+      "description": "Para los más caprichosos os traemos la pizza cuyo ingrediente principal es más amado por la comunidad ibérica.",
+      "section": "2",
+      "available": true,
+      "size": "",
+      "id": "163af5cd-441b-4d7f-9af5-a2c8af8e40c1",
+      "created_at": "05/25/2024, 07:32:29 PM",
+      "updated_at": "05/25/2024, 07:32:29 PM"
+    },
+    {
+      "name": "9 fromage",
+      "ingredients": [
+        "Masa fina",
+        "   Salsa de tomate",
+        "   Mozzarella",
+        "   Gouda",
+        "   Cheddar",
+        "   Emmental",
+        "   Queso de cabra",
+        "   Gorgonzola",
+        "   Taleggio",
+        "   Brie",
+        "   Queso curado italiano",
+        "   Queso azul"
+      ],
+      "price": 8.5,
+      "image": "ninefromage.jpg",
+      "description": "Para los cheese lovers aquí tenemos una opción para vosotros, os aseguramos que será una victoria asegurada.",
+      "section": "2",
+      "available": true,
+      "size": "",
+      "id": "18559530-c8d9-432b-8640-6a8856acd5c5",
+      "created_at": "05/25/2024, 07:36:16 PM",
+      "updated_at": "05/26/2024, 06:17:22 PM"
+    },
+    {
+      "name": "Chicken bits",
+      "ingredients": [
+        "Masa gruesa",
+        "Salsa de tomate",
+        "Mozzarella",
+        "Bites de pollo",
+        "Albahaca",
+        "Salsa ranchera"
+      ],
+      "price": 9,
+      "image": "chickenbitspizza.jpg",
+      "description": "Una opción para los amantes del pollo, disfruta de nuestra pizza de masa gruesa y con bordes rellenos de mozzarella, toda una delicia.",
+      "section": "2",
+      "available": true,
+      "size": "",
+      "id": "07ce1faa-6612-47e0-987f-bcb4168f9e99",
+      "created_at": "05/25/2024, 07:40:15 PM",
+      "updated_at": "05/25/2024, 07:40:15 PM"
+    },
+    {
+      "name": "Combinado Bacon",
+      "ingredients": [
+        "Bacon",
+        "Patatas",
+        "Huevo frito"
+      ],
+      "price": 9.7,
+      "image": "combinadobacon.jpeg",
+      "description": "De lo más clásico aquí tenemos un plato combinado para los de siempre.",
+      "section": "3",
+      "available": true,
+      "size": "",
+      "id": "dd26c7d4-0283-468f-b9c6-9b635032152f",
+      "created_at": "05/26/2024, 03:32:14 PM",
+      "updated_at": "05/26/2024, 03:32:14 PM"
+    },
+    {
+      "name": "Combinado Croquetas",
+      "ingredients": [
+        "Patatas fritas",
+        "Huevos",
+        "Croquetas a elegir"
+      ],
+      "price": 11,
+      "image": "combinadocroquetas.jpg",
+      "description": "¿A quién no le gustan unas buenas croquetas? En Zpecial no somos menos y sabemos complacerte, Elige entre nuestra variedad de croquetas o puedes hacer un mix si lo prefieres.",
+      "section": "3",
+      "available": true,
+      "size": "",
+      "id": "b6ed06bd-9a0a-49e0-86d8-33f1ff68cda6",
+      "created_at": "05/26/2024, 03:38:11 PM",
+      "updated_at": "05/26/2024, 03:38:11 PM"
+    },
+    {
+      "name": "Combinado Hamburguesa",
+      "ingredients": [
+        "Patatas fritas",
+        "Huevo frito",
+        "Hamburguesa",
+        "Ensalada"
+      ],
+      "price": 9,
+      "image": "combinadoburguer.jpg",
+      "description": "Como olvidarnos de los burguers lover, por eso pensamos en ti y te traemos esta clásica combinación.",
+      "section": "3",
+      "available": true,
+      "size": "",
+      "id": "a14ce321-a3dc-48f7-a32a-5c02292e750e",
+      "created_at": "05/26/2024, 03:46:32 PM",
+      "updated_at": "05/26/2024, 03:46:32 PM"
+    },
+    {
+      "name": "Combinado San jacobo y salchichas",
+      "ingredients": [
+        "Patatas fritas",
+        " Huevo frito",
+        " San jacobo york queso",
+        " Salchichas"
+      ],
+      "price": 10,
+      "image": "combinadojacobo.webp",
+      "description": "Una combinación para los más clásicos y golosos y a demás que no pierdan el gusto por lo tradicional.",
+      "section": "3",
+      "available": true,
+      "size": "",
+      "id": "52649d58-3fdf-425a-b22e-08056359f1c4",
+      "created_at": "05/26/2024, 03:50:27 PM",
+      "updated_at": "05/26/2024, 04:02:10 PM"
+    },
+    {
+      "name": "Combinado Pincho moruno",
+      "ingredients": [
+        "Patatas fritas",
+        "  Ensalada",
+        "  Tomate",
+        "  Zanahoria",
+        "  Pincho moruno"
+      ],
+      "price": 12,
+      "image": "combinadomoruno.jpg",
+      "description": "Un poquito de saludable pero con otro poquito de sabor, recuerda al bar de tapas clásico donde no podías irte sin tu pincho moruno.",
+      "section": "3",
+      "available": true,
+      "size": "",
+      "id": "9313786c-b029-4c2b-a731-53e86b02f73e",
+      "created_at": "05/26/2024, 03:55:15 PM",
+      "updated_at": "05/26/2024, 04:01:44 PM"
+    },
+    {
+      "name": "Zpecial combo",
+      "ingredients": [
+        "Patatas fritas",
+        "Ensalada",
+        "Piquillos",
+        "Cachopo de ternera"
+      ],
+      "price": 13,
+      "image": "zpecialcombo.jpeg",
+      "description": "Para los más exquisitos y amantes de la gastronomía del norte traemos nuestro cachopo relleno de jamón ibérico, queso gorgonzola, un toque de roquefort y cariño nuestro, aseguramos que es inigualable.",
+      "section": "3",
+      "available": true,
+      "size": "",
+      "id": "2adb8223-2a83-49b2-91c4-a16fc1433708",
+      "created_at": "05/26/2024, 04:06:59 PM",
+      "updated_at": "05/26/2024, 04:07:00 PM"
+    },
+    {
+      "name": "Africanito",
+      "ingredients": [
+        "Pan de barra",
+        "Pollo o Lomo",
+        "Mayonesa",
+        "Especias",
+        "Cebolla"
+      ],
+      "price": 4,
+      "image": "africanito.jpeg",
+      "description": "Proveniente del sur de Andalucía os traemos esta delicia de bocadillo que hará que repitas siempre que nos visites.",
+      "section": "4",
+      "available": true,
+      "size": "",
+      "id": "0950a8c2-93cc-487c-8f50-adfe53a40b88",
+      "created_at": "05/26/2024, 04:19:01 PM",
+      "updated_at": "06/02/2024, 01:01:50 AM"
+    },
+    {
+      "name": "Furruño",
+      "ingredients": [
+        "Pan de barra",
+        "Pollo o Lomo",
+        "Especias",
+        "Mojo picón"
+      ],
+      "price": 4,
+      "image": "furruño.webp",
+      "description": "Proveniente de l sur de Andalucía os traemos el clásico Furruño, con un toque ligeramente picante hará que no te olvides de esta delicia.",
+      "section": "4",
+      "available": true,
+      "size": "",
+      "id": "e785f625-b9a3-4fb4-85b1-5e598bfdd7ea",
+      "created_at": "05/26/2024, 04:26:34 PM",
+      "updated_at": "05/26/2024, 04:26:34 PM"
+    },
+    {
+      "name": "Vegetal",
+      "ingredients": [
+        "Pan de barra",
+        "Aguacate",
+        "Tomate",
+        "Champiñones",
+        "Cebolla morada",
+        "Albahaca",
+        "Pollo",
+        "Especias"
+      ],
+      "price": 7,
+      "image": "vegetal.jpg",
+      "description": "Para los que optan por una versión más saludable, este es vuestro bocadillo.",
+      "section": "4",
+      "available": true,
+      "size": "",
+      "id": "41b13be6-9df0-41af-b3f7-f567310c1f47",
+      "created_at": "05/26/2024, 04:32:51 PM",
+      "updated_at": "05/26/2024, 04:32:52 PM"
+    },
+    {
+      "name": "Mediterráneo Gourmet",
+      "ingredients": [
+        "Pan chapata",
+        "Queso azul",
+        "Rúcula",
+        "Tomate asado",
+        "Calabacín",
+        "Pollo "
+      ],
+      "price": 8,
+      "image": "mediterraneogourmet.jpg",
+      "description": "Una combinación de sabores que no te decepcionará si te gusta la gastronomía mediterránea.",
+      "section": "4",
+      "available": true,
+      "size": "",
+      "id": "999284a2-fff7-4bfa-9009-11a4aa885b30",
+      "created_at": "05/26/2024, 04:38:51 PM",
+      "updated_at": "05/26/2024, 04:38:51 PM"
+    },
+    {
+      "name": "Toscana de pastrami",
+      "ingredients": [
+        "Pan chapata",
+        " Pastrami",
+        " Parmesano",
+        " Rúcula",
+        " Albahaca",
+        " Salsa de mostaza"
+      ],
+      "price": 10,
+      "image": "toscanadepastrami.jpg",
+      "description": "Viaja a Italia con este bocadillo, productos originales Italianos directos a tu paladar.",
+      "section": "4",
+      "available": true,
+      "size": "",
+      "id": "df72aeae-ade7-4c2d-9da9-fbed6f412a41",
+      "created_at": "05/26/2024, 04:42:28 PM",
+      "updated_at": "05/26/2024, 04:45:24 PM"
+    },
+    {
+      "name": "Ibérico",
+      "ingredients": [
+        "Pan de barra",
+        "Jamón ibérico",
+        "Cebolla a la plancha",
+        "Lomo",
+        "Alioli"
+      ],
+      "price": 10,
+      "image": "iberico.jpg",
+      "description": "Tradicional de la península, apto para todos los paladares, prueba este manjar y no te arrepentirás",
+      "section": "4",
+      "available": true,
+      "size": "",
+      "id": "bb59c680-c242-4874-9b8c-2352d00fdf8f",
+      "created_at": "05/26/2024, 04:46:55 PM",
+      "updated_at": "05/26/2024, 04:46:55 PM"
+    },
+    {
+      "name": "Camembert Bites",
+      "ingredients": [
+        "Queso camembert",
+        "Kikos",
+        "Mermelada de tomate"
+      ],
+      "price": 5,
+      "image": "camembertbites.jpg",
+      "description": "Porciones de queso camembert rebozado con nuestra mezcla de kikos y acompañadas con una deliciosa mermelada de tomate.",
+      "section": "5",
+      "available": true,
+      "size": "",
+      "id": "89466daa-3d66-4a09-8cb7-522bc8314591",
+      "created_at": "05/26/2024, 04:54:21 PM",
+      "updated_at": "05/26/2024, 04:54:21 PM"
+    },
+    {
+      "name": "Deditos dorados",
+      "ingredients": [
+        "Tequeños",
+        "Salsa de curry-mango"
+      ],
+      "price": 12,
+      "image": "deditosdorados.png",
+      "description": "Provenientes de Venezuela y adaptados por nosotros, atrévete a probar nuestra receta especial de tequeños.",
+      "section": "5",
+      "available": true,
+      "size": "",
+      "id": "7706d86a-040d-4439-997e-7c7369bd9674",
+      "created_at": "05/26/2024, 04:57:14 PM",
+      "updated_at": "05/26/2024, 04:57:14 PM"
+    },
+    {
+      "name": "Frescura imperial",
+      "ingredients": [
+        "Lechuga",
+        " Picatostes",
+        " Pollo",
+        " Queso parmesano",
+        " Tomate cherry",
+        " Salsa cesar",
+        " Bacon"
+      ],
+      "price": 7.5,
+      "image": "frescuraimperial.jpg",
+      "description": "Hemos querido romper las reglas y le hemos dado un toque Zpecial a esta clásica ensalada.",
+      "section": "5",
+      "available": true,
+      "size": "",
+      "id": "a7dfdb42-1ef4-4b54-8fef-7977e27e58e4",
+      "created_at": "05/26/2024, 05:00:27 PM",
+      "updated_at": "05/26/2024, 05:01:37 PM"
+    },
+    {
+      "name": "Panko sensation",
+      "ingredients": [
+        "Langostinos",
+        "Panko"
+      ],
+      "price": 6.5,
+      "image": "pankosensation.jpg",
+      "description": "Prueba estos deliciosos langostinos marinados a nuestra manera y con un toque crunchy.",
+      "section": "5",
+      "available": true,
+      "size": "",
+      "id": "096c5cde-8fee-4644-a751-8222d4c8a163",
+      "created_at": "05/26/2024, 05:04:20 PM",
+      "updated_at": "05/26/2024, 05:04:20 PM"
+    },
+    {
+      "name": "Bandido",
+      "ingredients": [
+        "Pollo",
+        "Salsa barbacoa",
+        "Corn flakes"
+      ],
+      "price": 5,
+      "image": "bandidoentrante.jpg",
+      "description": "Para los más bandidos tenemos esta opción picante y dulce que no hará arrepentirte de haberlo pedido.",
+      "section": "5",
+      "available": true,
+      "size": "",
+      "id": "9629a195-d0c5-43d9-96ca-0573d97bc219",
+      "created_at": "05/26/2024, 05:08:36 PM",
+      "updated_at": "05/26/2024, 05:08:36 PM"
+    },
+    {
+      "name": "Zpecial Mix",
+      "ingredients": [
+        "Aritos de cebolla",
+        "Mozzarella sticks",
+        "Bandidos",
+        "Alitas BBQ",
+        "Salsa barbacoa",
+        "Mermelada de frambuesa"
+      ],
+      "price": 10,
+      "image": "zpecialmix.jpg",
+      "description": "Deléitate con esta combinación de entrantes si no te has decidido por alguno y quieres probarlos todos.",
+      "section": "5",
+      "available": true,
+      "size": "",
+      "id": "8f1ff501-c665-4690-90b6-54b8076a9380",
+      "created_at": "05/26/2024, 05:11:30 PM",
+      "updated_at": "05/26/2024, 05:11:30 PM"
+    },
+    {
+      "name": "Suave encanto",
+      "ingredients": [
+        "Panna cotta",
+        "Salsa de frutos rojos",
+        "Fresas"
+      ],
+      "price": 6,
+      "image": "pannacotta.webp",
+      "description": "Una crema italiana suave y delicada, con un toque de vainilla, servida con una deliciosa salsa de frutos rojos. Perfecta para cualquier ocasión especial.",
+      "section": "6",
+      "available": true,
+      "size": "",
+      "id": "f07c8e5a-43bb-4636-be89-f349052adee3",
+      "created_at": "05/26/2024, 05:20:44 PM",
+      "updated_at": "05/26/2024, 05:20:44 PM"
+    },
+    {
+      "name": "Dolce Paradiso",
+      "ingredients": [
+        "Savoiardi",
+        "Queso mascarpone",
+        "Café",
+        "Huevo",
+        "Cacao"
+      ],
+      "price": 8,
+      "image": "tiramisu.jpg",
+      "description": "Delicada capas de Savoiardi empapados en café, entre una mezcla de mascarpone y huevos, espolvoreado con cacao. ¡Una tentación italiana!",
+      "section": "6",
+      "available": true,
+      "size": "",
+      "id": "8460f835-fe7b-4b2c-a69d-f5fb10b821b0",
+      "created_at": "05/26/2024, 05:25:11 PM",
+      "updated_at": "05/26/2024, 05:25:11 PM"
+    },
+    {
+      "name": "Dulce volcán",
+      "ingredients": [
+        "Chocolate"
+      ],
+      "price": 8,
+      "image": "dulcevolcan.jpg",
+      "description": "Un deleite tentador de chocolate fundido, su exterior crujiente revela un centro líquido y sedoso que cautiva cada bocado.",
+      "section": "6",
+      "available": true,
+      "size": "",
+      "id": "deb20995-5b9c-4f82-a940-b757cce18c17",
+      "created_at": "05/26/2024, 05:28:30 PM",
+      "updated_at": "05/26/2024, 05:28:30 PM"
+    },
+    {
+      "name": "Crisp manzana",
+      "ingredients": [
+        "Tartaleta",
+        "Manzana",
+        "Canela"
+      ],
+      "price": 9,
+      "image": "crispmanzana.jpg",
+      "description": "Tartaleta con manzana dulce y crujiente, una explosión de sabor casero en cada bocado. ¡Una delicia que te dejará queriendo más!",
+      "section": "6",
+      "available": true,
+      "size": "",
+      "id": "f97684fd-70c2-465e-a74b-f7c622134379",
+      "created_at": "05/26/2024, 05:31:14 PM",
+      "updated_at": "05/26/2024, 05:31:14 PM"
+    },
+    {
+      "name": "Fanta de naranja",
+      "ingredients": [
+        ""
+      ],
+      "price": 1.5,
+      "image": "fantanaranjalata.jpg",
+      "description": "",
+      "section": "7",
+      "available": true,
+      "size": "33cl",
+      "id": "cf3e1bc9-7a29-400b-aad8-58b4d707acfd",
+      "created_at": "05/26/2024, 05:33:12 PM",
+      "updated_at": "05/26/2024, 05:33:12 PM"
+    },
+    {
+      "name": "Fanta de limón",
+      "ingredients": [
+        ""
+      ],
+      "price": 1.5,
+      "image": "fantadelimon.png",
+      "description": "",
+      "section": "7",
+      "available": true,
+      "size": "33cl",
+      "id": "a3388228-fd8b-4acc-8c55-abbd73db7336",
+      "created_at": "05/26/2024, 05:36:10 PM",
+      "updated_at": "05/26/2024, 05:36:10 PM"
+    },
+    {
+      "name": "Nestea",
+      "ingredients": [
+        ""
+      ],
+      "price": 1.5,
+      "image": "nestea.jpg",
+      "description": "",
+      "section": "7",
+      "available": true,
+      "size": "33cl",
+      "id": "8d5cbfd7-0f60-48b1-a974-788d0d24090d",
+      "created_at": "05/26/2024, 05:37:21 PM",
+      "updated_at": "05/26/2024, 05:37:21 PM"
+    },
+    {
+      "name": "Agua",
+      "ingredients": [
+        ""
+      ],
+      "price": 1.2,
+      "image": "agua.jpeg",
+      "description": "",
+      "section": "7",
+      "available": true,
+      "size": "1.5L",
+      "id": "ca5cbc83-93bc-400c-98c5-9ab50e994574",
+      "created_at": "05/26/2024, 05:38:44 PM",
+      "updated_at": "05/26/2024, 05:38:44 PM"
+    },
+    {
+      "name": "Cerveza Con",
+      "ingredients": [
+        ""
+      ],
+      "price": 1.5,
+      "image": "cerveza.jpeg",
+      "description": "",
+      "section": "7",
+      "available": true,
+      "size": "33cl",
+      "id": "efb1011e-84e6-46da-a775-708fd412ffa0",
+      "created_at": "05/26/2024, 05:39:47 PM",
+      "updated_at": "05/26/2024, 05:39:47 PM"
+    },
+    {
+      "name": "Cerveza Sin",
+      "ingredients": [
+        ""
+      ],
+      "price": 1.5,
+      "image": "cervezasin.jpeg",
+      "description": "",
+      "section": "7",
+      "available": true,
+      "size": "33cl",
+      "id": "501d90d9-934a-484c-8c4b-987cdf0674da",
+      "created_at": "05/26/2024, 05:43:32 PM",
+      "updated_at": "05/26/2024, 05:43:32 PM"
+    },
+    {
+      "name": "Radical",
+      "ingredients": [
+        ""
+      ],
+      "price": 2,
+      "image": "radical.jpeg",
+      "description": "",
+      "section": "7",
+      "available": true,
+      "size": "50cl",
+      "id": "5d527839-f163-4d00-8169-8e01319c42f7",
+      "created_at": "05/26/2024, 05:45:19 PM",
+      "updated_at": "05/26/2024, 05:45:19 PM"
+    }
+  ]
+}

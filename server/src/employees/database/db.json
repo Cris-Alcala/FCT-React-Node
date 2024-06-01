@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "name": "Cristóbal",
+      "surname": "Alcalá",
+      "dni": "22222222Y",
+      "address": "Pedro Herrera Zamora 3",
+      "position": "",
+      "phone": "666666666",
+      "userName": "Alcazor",
+      "email": "cristobal.alcala@fernando3martos.com",
+      "password": "$2b$10$A5BbwG65QH7OrzqHfmWD9.lI2GhFLLRR.WbRTTgxb4.QHvRTPIA7.",
+      "admin": true,
+      "id": "71f3548f-5dd9-4f59-888b-4be0d1878291",
+      "created_at": "04/03/2024, 05:35:12 PM",
+      "updated_at": "05/18/2024, 02:49:57 PM"
+    },
+    {
+      "name": "Cristóbal",
+      "surname": "Alcalá",
+      "dni": "22222228Y",
+      "address": "Pedro Herrera Zamora 3",
+      "position": "Recepcionist",
+      "phone": "666666666",
+      "userName": "Alcazor",
+      "email": "receptionist@gmail.com",
+      "password": "$2b$10$A5BbwG65QH7OrzqHfmWD9.lI2GhFLLRR.WbRTTgxb4.QHvRTPIA7.",
+      "admin": false,
+      "id": "71f3548f-5dd9-4f59-888b-4be0d187829",
+      "created_at": "04/03/2024, 05:35:12 PM",
+      "updated_at": "06/02/2024, 12:59:09 AM"
+    },
+    {
+      "name": "Cristóbal",
+      "surname": "Alcalá",
+      "dni": "22222227Y",
+      "address": "Pedro Herrera Zamora 3",
+      "position": "Chef",
+      "phone": "666666666",
+      "userName": "Alcazor",
+      "email": "chef@gmail.com",
+      "password": "$2b$10$A5BbwG65QH7OrzqHfmWD9.lI2GhFLLRR.WbRTTgxb4.QHvRTPIA7.",
+      "admin": false,
+      "id": "71f3548f-5dd9-4f59-888b-4be0d1878",
+      "created_at": "04/03/2024, 05:35:12 PM",
+      "updated_at": "05/18/2024, 02:49:57 PM"
+    },
+    {
+      "name": "Cristóbal",
+      "surname": "Alcalá",
+      "dni": "22222226Y",
+      "address": "Pedro Herrera Zamora 3",
+      "position": "Delivery",
+      "phone": "666666666",
+      "userName": "Alcazor",
+      "email": "delivery@gmail.com",
+      "password": "$2b$10$A5BbwG65QH7OrzqHfmWD9.lI2GhFLLRR.WbRTTgxb4.QHvRTPIA7.",
+      "admin": false,
+      "id": "71f3548f-5dd9-4f59-888b-4be0d18",
+      "created_at": "04/03/2024, 05:35:12 PM",
+      "updated_at": "05/18/2024, 02:49:57 PM"
+    }
+  ]
+}

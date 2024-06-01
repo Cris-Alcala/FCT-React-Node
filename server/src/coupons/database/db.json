@@ -1,0 +1,20 @@
+{
+  "coupons": [
+    {
+      "name": "JUNE2024",
+      "id": 1,
+      "discount": 40,
+      "description": "40% off your order",
+      "available": true,
+      "updated_at": "05/08/2024, 05:35:25 PM"
+    },
+    {
+      "name": "JULE2024",
+      "id": 2,
+      "discount": 10,
+      "description": "10% off your order",
+      "available": true,
+      "updated_at": "05/19/2024, 08:36:58 PM"
+    }
+  ]
+}

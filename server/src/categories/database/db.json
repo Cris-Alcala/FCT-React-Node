@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "name": "Hamburguesas",
+      "id": "1",
+      "updated_at": "05/05/2024, 10:05:58 PM",
+      "available": true
+    },
+    {
+      "name": "Pizzas",
+      "id": "2",
+      "updated_at": "05/05/2024, 09:40:50 PM",
+      "available": true
+    },
+    {
+      "name": "Platos Combinados",
+      "id": "3",
+      "updated_at": "2016-06-01T12:00:00Z",
+      "available": true
+    },
+    {
+      "name": "Bocadillos",
+      "id": "4",
+      "updated_at": "2016-06-01T12:00:00Z",
+      "available": true
+    },
+    {
+      "name": "Patatas Asadas",
+      "id": "8",
+      "updated_at": "05/05/2024, 09:40:02 PM",
+      "available": true
+    },
+    {
+      "name": "Entrantes",
+      "id": "5",
+      "updated_at": "05/05/2024, 10:05:24 PM",
+      "available": true
+    },
+    {
+      "name": "Postres",
+      "id": "6",
+      "updated_at": "05/05/2024, 09:37:59 PM",
+      "available": true
+    },
+    {
+      "name": "Bebidas",
+      "id": "7",
+      "updated_at": "05/17/2024, 03:46:30 PM",
+      "available": true
+    }
+  ]
+}
