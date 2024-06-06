@@ -73,8 +73,4 @@ Asegúrate de tener instalados los siguientes requisitos en tu sistema:
 
 ## Licencia
 
-Este proyecto está licenciado bajo los términos de la [Licencia MIT](LICENSE).
-
----
-
-¡Gracias por usar **Zpecial**! Si tienes alguna pregunta o problema, no dudes en abrir un issue en el repositorio.
+Este proyecto está licenciado bajo los términos de la Licencia MIT.
